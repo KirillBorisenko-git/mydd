@@ -1,6 +1,7 @@
 {
   "name": "mydd",
   "version": "0.1.0",
+  "homepage": "http://KirillBorisenko.github.io/mydd"
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
